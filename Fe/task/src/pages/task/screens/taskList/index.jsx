@@ -147,6 +147,7 @@ const TaskList = () => {
                       minWidth: '268px',
                       maxWidth: '268px',
                     }}
+                    content={record?.description}
                   />
                 )
               })
