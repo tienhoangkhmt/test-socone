@@ -11,9 +11,9 @@ const CustomCard = (props) => {
       //   width: 300,
       // }}
     >
-      <p>Card content</p>
-      <p>Card content</p>
-      <p>Card content</p>
+      {
+        props.content
+      }
     </Card>
   )
 }
