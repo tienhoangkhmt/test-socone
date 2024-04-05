@@ -1,1 +1,3 @@
 # repo BackEnd: https://github.com/tienhoangkhmt/Be
+VITE_SUPABASE_PUBLIC_KEY = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp0aW9hcGFyb3l3ZXhnaW15Y2dsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTIyOTk5NTEsImV4cCI6MjAyNzg3NTk1MX0.0DmOY-n-YYvt_Og25T92iWOh2uYdz75m6alfdy2MknQ
+VITE_SUPABASE_URL = https://ztioaparoywexgimycgl.supabase.co
